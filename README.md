@@ -8,3 +8,5 @@ Carlos Hector Castaneda Ramirez
 2. Area circulo
 3. Area triangulo
 4. Paga trabajador
+
+mamact
